@@ -1,4 +1,4 @@
-##Stock Price Predictor
+## Stock Price Predictor
 
 The stock price predictor is a project that introduces neural networks and illustrates an example of how one can use neural networks to predict stock prices. It equips the LSTM (Long-short term memory) and MLP (multilayer perceptron) models.
 
